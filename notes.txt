@@ -1,8 +1,0 @@
- 1 - better to have a gloabal confit with your name and email
-
- 2 - do git add . (add to staging) and after do git commit with name of commit. 		 	example: git commit -m "initial commit"		
- 
- 3 - if you wrote something incorect, git will help you, pay attention on that, in worst case you allways can do google
-
-
-
