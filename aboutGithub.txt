@@ -1,0 +1,1 @@
+git hub is a great tool for team working, it dose all contecting work, you can do you part of job, and then add your part into existing project with PR's, in general you can not work on big project with big team without tool like github, or atleas it will be way harder 
