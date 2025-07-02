@@ -1,1 +1,8 @@
-git hub is a great tool for team working, it dose all contecting work, you can do you part of job, and then add your part into existing project with PR's, in general you can not work on big project with big team without tool like github, or atleas it will be way harder 
+1 - GitHub is a great tool for team collaboration.
+
+2 - It does all the connecting work: you can do your part and then merge your branch into the main project using a PR (pull request).
+
+3 - In general, you can't work on a big project with a big team without a helper tool like GitHub — or at least it will be way harder.
+
+4 - For a smoother experience, it's better to connect your GitHub and local Git using SSH.
+
